@@ -69,8 +69,6 @@ Site de Loja/
 
 ---
 
-Se quiser, posso implementar: testes e CI, publicar no GitHub Pages, ou preparar um script de deploy — diga qual prefere e eu crio os arquivos necessários e atualizo o README com instruções de uso.
-
 
 ## 📄 Licença
 
